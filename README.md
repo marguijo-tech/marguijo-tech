@@ -66,7 +66,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marguijo-tech&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/121565506">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=121565506&count=5&unique=true" alt="Spotify recently played"  />
   </a>
