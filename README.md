@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a BI Developer & Junior Analytics Engineer from Houston, TX.<br><br>🔭 I’m currently working as a BI Developer, building data pipelines with Prefect, dbt, and Databricks.<br>📚 I'm currently learning more about orchestration, data modeling, and gearing up to attend the OMSA - Analytics Master's program at Georgia Tech this fall.<br>⚡ In my free time I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.</p>
+<p align="left">I'm a professional with previous experience as a BI Developer and ERP Systems Analyst from Houston, TX.<br><br>🔭 I’m currently seeking work but have worked in various roles building data pipelines with Prefect, dbt, and Databricks.<br>📚 I'm currently learning more about orchestration, data modeling, and gearing up to attend the OMSA - Analytics Master's program at Georgia Tech this fall.<br>⚡ In my free time I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.</p>
 
 ###
 
