@@ -22,7 +22,12 @@
 
 ###
 
-<p align="left">I'm a professional with previous experience as a BI Developer and ERP Systems Analyst from Houston, TX.<br><br>🔭 I’m currently seeking work but have worked in various roles building data pipelines with Prefect, dbt, and Databricks.<br>📚 I'm currently learning more about orchestration, data modeling, and gearing up to attend the OMSA - Analytics Master's program at the Georgia Tech Institute of Technology this fall.<br>⚡ In my free time I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.</p>
+<p align="left">
+  I'm a Data Analyst and BI Developer based in Houston, TX, with a background in ERP Systems Analysis.<br><br>
+  🔭 Currently focused on improving data engineering workflows and reporting structures working as a Data Analysti using Prefect, dbt, and Microsoft Fabric tools.<br>
+  📚 Actively expanding my skills in orchestration, data modeling, and preparing to begin the OMSA - Analytics Master's program at Georgia Tech this fall.<br>
+  ⚡ In my free time, I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.
+</p>
 
 ###
 
