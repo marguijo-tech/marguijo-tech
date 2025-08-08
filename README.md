@@ -24,50 +24,30 @@
 
 <p align="left">
   I'm a Data Analyst and BI Developer based in Houston, TX, with a background in ERP Systems Analysis.<br><br>
-  🔭 Currently focused on improving data engineering workflows and reporting structures working as a Data Analysti using Prefect, dbt, and Microsoft Fabric tools.<br>
-  📚 Actively expanding my skills in orchestration, data modeling, and preparing to begin the OMSA - Analytics Master's program at Georgia Tech this fall.<br>
-  ⚡ In my free time, I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.
+  🔭 Currently working with a diverse set of tools including Microsoft Fabric, dbt, Power BI, and Prefect to enhance data engineering workflows and reporting.<br>
+  🎓 Began the OMSA (Online Master of Science in Analytics) program at Georgia Tech, with plans to graduate by Fall 2027.<br>
+  ⚡ Outside of work, I enjoy curating my vinyl collection, contributing to my local community, and attending live music events.
 </p>
 
 ###
 
-<h3 align="left">🛠 Language/Tools Used</h3>
+<h3 align="left">🌟 Key Skills & Focus Areas</h3>
 
-###
+<ul>
+  <li>Data Engineering & ETL Pipelines</li>
+  <li>Business Intelligence & Reporting</li>
+  <li>Data Modeling & Orchestration (Prefect, dbt)</li>
+  <li>Cloud Platforms & Modern Analytics Tools</li>
+  <li>Collaborative Problem Solving & Agile Workflows</li>
+</ul>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
-</div>
+
+### 📔🧑🏻‍💻Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,vscode,github,git,mongodb,mysql,js,nodejs,react,express,jest,html,css,bootstrap,pug,notion,obsidian,discord,md,postman)](https://skillicons.dev)
+
+### 🏫Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,py)](https://skillicons.dev)
+
 
 ###
 
