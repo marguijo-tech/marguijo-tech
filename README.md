@@ -42,18 +42,39 @@
 </ul>
 
 
-### 📔🧑🏻‍💻Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,vscode,github,git,mongodb,mysql,js,nodejs,react,express,jest,html,css,bootstrap,pug,notion,obsidian,discord,md,postman)](https://skillicons.dev)
+### 🔨🧑🏻‍💻Toolbox
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,regex,vscode,github,git,mongodb,mysql,js,nodejs,react,express,jest,html,css,bootstrap,notion,obsidian,discord,md,postman&perline=10" />
+  </a>
+</p>
 
-### 🏫Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp,py)](https://skillicons.dev)
 
+### 🏫📖Studying
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,py" />
+  </a>
+</p>
 
-###
+### ⚡ Github Stats
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=marguijo-tech&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marguijo-tech&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 100%" />
+</td></tr></table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marguijo-tech&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+---
+
+<h2 align="center"> 🌠 Keep Keepin' on!
+
+---
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=I%20never%20lose.%20I%20either%20win%20or%20learn.&author=Nelson%20Mandela&border=true" />
+  </a>
+</p>
 
 ###
 
